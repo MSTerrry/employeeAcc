@@ -1,0 +1,13 @@
+D:\работа\employeeAcc\employeeAcc\bin\Debug\employeeAcc.exe.config
+D:\работа\employeeAcc\employeeAcc\bin\Debug\employeeAcc.exe
+D:\работа\employeeAcc\employeeAcc\bin\Debug\employeeAcc.pdb
+D:\работа\employeeAcc\employeeAcc\obj\Debug\employeeAcc.csprojAssemblyReference.cache
+D:\работа\employeeAcc\employeeAcc\obj\Debug\employeeAcc.AddNewEmployeeForm.resources
+D:\работа\employeeAcc\employeeAcc\obj\Debug\employeeAcc.Properties.Resources.resources
+D:\работа\employeeAcc\employeeAcc\obj\Debug\employeeAcc.csproj.GenerateResource.cache
+D:\работа\employeeAcc\employeeAcc\obj\Debug\employeeAcc.csproj.CoreCompileInputs.cache
+D:\работа\employeeAcc\employeeAcc\obj\Debug\employeeAcc.exe
+D:\работа\employeeAcc\employeeAcc\obj\Debug\employeeAcc.pdb
+D:\работа\employeeAcc\employeeAcc\obj\Debug\employeeAcc.MainWindowForm.resources
+D:\работа\employeeAcc\employeeAcc\bin\Debug\EmployeeDB.mdf
+D:\работа\employeeAcc\employeeAcc\bin\Debug\EmployeeDB_log.ldf
